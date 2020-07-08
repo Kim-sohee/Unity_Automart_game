@@ -3,7 +3,7 @@
 
 * 사용언어: C#
 * Vuforia 사용하여 AR 구현
-* AR이 [지원되는 기기](https://library.vuforia.com/content/vuforia-library/en/platform-support/vuforia-engine-recommended-devices.html) 와 [지원되는 버전](https://library.vuforia.com/content/vuforia-library/en/platform-support/supported-versions.html)을 확인
+* 해당 앱 실행 전 AR이 [지원되는 기기](https://library.vuforia.com/content/vuforia-library/en/platform-support/vuforia-engine-recommended-devices.html) 와 [지원되는 버전](https://library.vuforia.com/content/vuforia-library/en/platform-support/supported-versions.html)을 확인하세요
 
 -----
 ### 작품 소개
