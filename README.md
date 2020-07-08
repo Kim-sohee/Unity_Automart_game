@@ -7,14 +7,17 @@
 
 -----
 ### 작품 소개
-Vuforia와 Unity 3D를 통해 AR 객체인식을 활용한 미니 게임을 제작하여 마트의 타임세일이나 이벤트 등을 무인화 마트에서도 적용할 수 있도록 고안하였습니다.
+Vuforia와 Unity 3D를 통해 AR 객체인식을 활용한 미니 게임을 제작하여 마트의 타임세일이나 이벤트 등을 무인화 마트에서도 도입할 수 있도록 고안하였습니다.
 
-> * 현재 AR 행사
-해당 상품의 컨셉에 맞는 미니 게임이 실행되며 게임 클리어 시 할인 쿠폰을 발급받을 수 있도록 제작하였습니다.
+> * 현재 AR 행사    
+  해당 상품의 컨셉에 맞는 미니 게임이 실행되며 게임 클리어 시 할인 쿠폰을 발급받을 수 있도록 제작하였습니다.
 
-> * 이전 AR 행사
-초기에는 특정 상품을 인식하면 다음과 같이 해당 상품의 광고가 띄워지며 광고를 끝까지 시청하면 쿠폰이 발급되도록 제작하였습니다.
+![soccer_game](https://user-images.githubusercontent.com/53697280/86920730-27188f00-c165-11ea-9fe5-40fae6222c62.gif)
+![maze_game](https://user-images.githubusercontent.com/53697280/86920806-3ac3f580-c165-11ea-8ed4-3f9c90488298.gif)
+
+
+> * 이전 AR 행사    
+ 초기에는 특정 상품을 인식하면 다음과 같이 해당 상품의 광고가 띄워지며 광고를 끝까지 시청하면 쿠폰이 발급되도록 제작하였습니다.
 
 ![cerial_ad](https://user-images.githubusercontent.com/53697280/86917875-cedf8e00-c160-11ea-96b4-923cd21cbaf4.gif) 
 <img src="https://user-images.githubusercontent.com/53697280/86917119-91c6cc00-c15f-11ea-9a4f-a7ef953095bc.jpg" width="40%">
-
