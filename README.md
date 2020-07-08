@@ -16,4 +16,4 @@ Vuforia와 Unity 3D를 통해 AR 객체인식을 활용한 미니 게임을 제�
 초기에는 특정 상품을 인식하면 다음과 같이 해당 상품의 광고가 띄워지며 광고를 끝까지 시청하면 쿠폰이 발급되도록 제작하였습니다.
 
 ![cerial_ad](https://user-images.githubusercontent.com/53697280/86917875-cedf8e00-c160-11ea-96b4-923cd21cbaf4.gif)
-![Screenshot_VOCD](https://user-images.githubusercontent.com/53697280/86919202-d6079b80-c162-11ea-9e1d-9fee585d5788.jpg)
+![Screenshot_VOCD](https://user-images.githubusercontent.com/53697280/86917119-91c6cc00-c15f-11ea-9a4f-a7ef953095bc.jpg){: width="100" height="100"}
