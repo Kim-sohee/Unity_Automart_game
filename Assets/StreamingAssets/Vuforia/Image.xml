@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="serial1" size="10.000000 15.603865" />
+    <ImageTarget name="mathbook" size="10.000000 13.800539" />
+    <ImageTarget name="maze1" size="10.000000 10.000000" />
+    <ImageTarget name="image55" size="10.000000 10.000000" />
+    <ImageTarget name="image44" size="10.000000 10.000000" />
+    <ImageTarget name="image30" size="10.000000 17.777779" />
+    <ImageTarget name="image11" size="10.000000 10.000000" />
+    <ImageTarget name="image22" size="10.000000 10.000000" />
+    <ImageTarget name="image6" size="10.000000 16.852793" />
+    <ImageTarget name="image5" size="10.000000 10.000000" />
+    <ImageTarget name="image4" size="10.000000 10.000000" />
+    <ImageTarget name="image3" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
