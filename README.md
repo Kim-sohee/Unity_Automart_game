@@ -2,6 +2,7 @@
 #### 오토마트 앱에 병합되어 있는 AR 미니게임 입니다.
 
 * 사용언어: C#
+* 개발 환경: Unity
 * Vuforia 사용하여 AR 구현
 * 앱 실행 전 AR이 [지원되는 기기](https://library.vuforia.com/content/vuforia-library/en/platform-support/vuforia-engine-recommended-devices.html) 와 [지원되는 버전](https://library.vuforia.com/content/vuforia-library/en/platform-support/supported-versions.html)을 확인하세요.
 
